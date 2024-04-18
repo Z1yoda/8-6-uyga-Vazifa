@@ -1,0 +1,48 @@
+.container {
+  width: 1200px;
+}
+
+.sendMessage li {
+  align-items: center;
+  text-align: center;
+  /* width: 129px;
+  height: 38px; */
+  padding: 8px 20px;
+  font-weight: 500;
+  border-radius: 8px;
+}
+
+.sendMessage li:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.registerBtn {
+  display: flex;
+  gap: 8px;
+}
+
+.second:hover {
+  background-color: rgb(38, 151, 255);
+}
+
+.second {
+  /* width: 89px;
+  height: 39px; */
+  padding: 8px 20px;
+  background-color: rgb(0, 108, 224);
+  border-radius: 6px;
+  border: none;
+  color: white;
+}
+
+.first {
+  background-color: transparent;
+  padding: 8px 20px;
+  border-radius: 6px;
+  border: none;
+  color: white;
+}
+
+.first:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}

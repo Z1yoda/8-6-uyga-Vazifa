@@ -1,0 +1,21 @@
+.hero-wrapper {
+  width: 100%;
+  background-color: rgb(10, 20, 110);
+  padding: 64px 24px 315px;
+  position: relative;
+}
+
+.hero-wrapper h1,
+h4 {
+  text-align: center;
+  color: white;
+}
+
+.hero-wrapper h1 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.hero-wrapper h4 {
+  font-size: 16px;
+}
