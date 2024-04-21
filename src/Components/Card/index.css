@@ -67,10 +67,14 @@
 .inputArea input,
 select {
   padding: 12px;
-  border: 0.8px solid rgb(221, 221, 221);
+  /* border: 0.8px solid rgb(221, 221, 221);
   border-radius: 8px;
   width: 319px;
-  height: 49px;
+  height: 49px; */
+}
+
+.currSymbol {
+  position: absolute;
 }
 
 .inputArea input:focus {
@@ -133,4 +137,8 @@ select {
   width: 453px;
   font-size: 11px;
   margin-bottom: 0;
+}
+
+ul li {
+  cursor: pointer;
 }

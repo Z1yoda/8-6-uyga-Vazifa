@@ -118,7 +118,7 @@
         "currency": {
             "code": "AMD",
             "name": "Armenian dram",
-            "symbol": ""
+            "symbol": "Դ"
         },
         "language": {
             "code": "hy",
@@ -166,7 +166,7 @@
         "currency": {
             "code": "AZN",
             "name": "Azerbaijani manat",
-            "symbol": ""
+            "symbol": "m"
         },
         "language": {
             "code": "az",
@@ -342,7 +342,7 @@
         "currency": {
             "code": "BAM",
             "name": "Bosnia and Herzegovina convertible mark",
-            "symbol": ""
+            "symbol": "KM"
         },
         "language": {
             "code": "bs",
@@ -1146,7 +1146,7 @@
         "currency": {
             "code": "KZT",
             "name": "Kazakhstani tenge",
-            "symbol": ""
+            "symbol": "₸"
         },
         "language": {
             "code": "kk",
@@ -2157,7 +2157,7 @@
         "currency": {
             "code": "TRY",
             "name": "Turkish lira",
-            "symbol": ""
+            "symbol": "₺"
         },
         "language": {
             "code": "tr",
@@ -2253,7 +2253,7 @@
         "currency": {
             "code": "UZS",
             "name": "Uzbekistani so'm",
-            "symbol": ""
+            "symbol": "f"
         },
         "language": {
             "code": "uz",
